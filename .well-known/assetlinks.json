@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "rbi.android.app",
+    "package_name": "1:929265965346:android:e141bdb26476a8d8d4ed7b",
     "sha256_cert_fingerprints":
-    ["55:F1:AB:40:5E:2B:ED:C8:68:EC:D0:CC:39:70:BC:9C:03:78:6D:E8:5D:81:B6:16:79:19:3F:E8:95:00:13:D8"]
+    ["E7:53:E0:B3:DA:02:B4:47:31:E1:80:2D:85:14:EF:58:9B:AA:04:B4:21:94:B5:9F:4D:28:41:79:38:5C:0E:8A"]
   }
 }]
