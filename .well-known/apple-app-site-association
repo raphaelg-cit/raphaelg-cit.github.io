@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "MV75HK3DF3.com.iberia.popeyes",
-        "paths": ["/"]
+        "paths": ["*"]
       }
     ]
   }
